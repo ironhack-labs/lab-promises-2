@@ -189,4 +189,11 @@ Example: `findUserByIdWithOrganization(3)`
 
 <br>
 
+## Extra Resources
+
+- [FreeCodeCamp: What is a Promise? JavaScript Promises for Beginners](https://www.freecodecamp.org/news/what-is-promise-in-javascript-for-beginners/)
+- [javascript.info: Promise (basics)](https://javascript.info/promise-basics)
+
+<br>
+
 Happy Coding! :heart:
